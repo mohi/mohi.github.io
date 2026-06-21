@@ -65,7 +65,7 @@ Most statements are assertions directly out of my head. I haven't validated them
 |                     	|                         	| Water well                           	|
 |                     	|                         	| 井戸端会議　いどばたかいぎ           	|
 |                     	|                         	| Housewives gossips                   	|
-|                     	| 意                      	| 意にまま                             	|
+|                     	| 意                      	| 意のまま                             	|
 |                     	| Feeling, sensation      	| As thought                           	|
 |                     	|                         	| 不意                                 	|
 |                     	|                         	| surprise                             	|
@@ -107,7 +107,7 @@ Most statements are assertions directly out of my head. I haven't validated them
 |                     	| Pain                    	| No pain, no gain                     	|
 | け                  	| 毛                      	| 巻き毛　まきげ                       	|
 |                     	| Hair, fur               	| Curly hair                           	|
-|                     	|                         	| 卦が柔らかい                         	|
+|                     	|                         	| 毛が柔らかい                         	|
 |                     	|                         	| Soft fur                             	|
 |                     	| 卦                      	| 良い卦が出た                         	|
 |                     	| Sign                    	| A good sign has appeared             	|
